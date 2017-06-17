@@ -1,0 +1,14 @@
+Data
+Data-Arch
+Temp
+Work
+Data-Keras
+PreData
+.Rproj.user
+*.Rproj
+.RData
+.RData?
+.Rhistory
+.ipynb_*
+Result
+
